@@ -2,9 +2,13 @@
 List of commercial and open source infrastructure software projects + companies
 
 # Intro
-tbd
+*tbd*
 
 ## Data Layer
+
+Data Lake
+- [Delta Lake from Databricks](https://databricks.com/product/delta-lake-on-databricks)
+- [Apache Iceberg](https://iceberg.apache.org/)
 
 ## Hardware / Compute
 
